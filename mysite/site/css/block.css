@@ -9,5 +9,22 @@ body {
 
 /* Here is one of many  CSS rules you will need... */
 #one {
-    
+    border-width: 5px;
+    border-color: red;
+
+}
+
+#two {
+    border-width: 5px;
+    border-color: green;
+}
+
+#three {
+    border-width: 5px;
+    border-color: blue;
+}
+
+#four {
+    border-width: 5px;
+    border-color: yellow;
 }
